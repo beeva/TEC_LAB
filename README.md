@@ -4,6 +4,7 @@
 **Adjacent innovation**: 
 * [Data Science](https://github.com/beeva-labs/research-lab/wiki/Data-Science): SQL Dataframes, Recommender systems, Data Visualization, GIS, NLP
 * [Big Data](https://github.com/beeva-labs/research-lab/wiki/Big-Data): NewSQL, Streaming, MPPs
+* [Cloud Computing](https://github.com/beeva-labs/research-lab/wiki/Cloud-Computing): Serverless, PaaS for Analytics
 * [Internet of Things (1)](https://github.com/beeva-labs/research-lab/wiki/Internet-of-Things-%281%29): Platforms, IoT DevOps
 * Human Computer Interfaces: No-UI, Bots
 * [Front-End](https://github.com/beeva-labs/research-lab/wiki/Front-End): Web Components
