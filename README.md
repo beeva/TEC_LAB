@@ -6,7 +6,7 @@
 * [Big Data](https://github.com/beeva-labs/research-lab/wiki/Big-Data): NewSQL, Streaming, MPPs
 * [Cloud Computing](https://github.com/beeva-labs/research-lab/wiki/Cloud-Computing): Serverless, PaaS for Analytics
 * [Internet of Things (1)](https://github.com/beeva-labs/research-lab/wiki/Internet-of-Things-%281%29): Platforms, IoT DevOps
-* Human Computer Interfaces: No-UI, Bots
+* [Human Computer Interfaces](https://github.com/beeva-labs/research-lab/wiki/HCI): No-UI, Bots
 * [Front-End](https://github.com/beeva-labs/research-lab/wiki/Front-End): Web Components
 
 **Transformational innovation**: 
