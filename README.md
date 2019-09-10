@@ -1,3 +1,5 @@
-# Beeva Research Lab
-* [Wiki](https://github.com/beeva-labs/research-lab/wiki)
-* [Blog](https://labs.beeva.com/tagged/research)
+# Tec Lab
+
+## BBVA Next Technologies
+
+* [Wiki](./wiki)
