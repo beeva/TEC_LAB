@@ -2,4 +2,4 @@
 
 ## BBVA Next Technologies
 
-* [Wiki](./wiki)
+* [Wiki](wiki)
