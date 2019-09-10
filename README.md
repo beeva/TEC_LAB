@@ -2,4 +2,4 @@
 
 ## BBVA Next Technologies
 
-* [Wiki](wiki)
+* [Wiki](https://github.com/beeva/TECH_LAB-wiki/wiki)
