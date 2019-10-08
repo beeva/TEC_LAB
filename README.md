@@ -1,5 +1,3 @@
-# Tec Lab
+# BBVA Next Technologies - Technology Laboratory
 
-## BBVA Next Technologies
-
-* [Wiki](https://github.com/beeva/TECH_LAB-wiki/wiki)
+* [Products](https://github.com/beeva/TECH_LAB-wiki/wiki)
